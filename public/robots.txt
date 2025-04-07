@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /login
+Disallow: /admin
+Disallow: /admin/*
+Allow: /
+
+Sitemap: https://dinhduongtinhthan.com/sitemap.xml
